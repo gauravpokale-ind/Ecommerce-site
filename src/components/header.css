@@ -1,0 +1,10 @@
+.header {
+    position: sticky;
+    height: 100px;
+    background-Image: linear-gradient(45deg, rgb(205, 181, 26), rgb(227, 224, 17));
+}
+
+.swad {
+    color: white;
+    font-size: 50px;
+}
