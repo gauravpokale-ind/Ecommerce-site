@@ -57,7 +57,7 @@ const Cardsdata = [
     {
         id: 6,
         dish: "Vada Pav",
-        imgdata: "src/assets/img/VadaPav.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615738/VadaPav_hxryaw.jpg",
         address: "Sitaburdi Corner",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: " 1100 + order placed from here recently",
