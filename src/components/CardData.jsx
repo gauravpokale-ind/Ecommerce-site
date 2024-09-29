@@ -2,7 +2,7 @@ const Cardsdata = [
     {
         id: 1,
         dish:  "Tikka Masala",
-        imgdata: "src/assets/img/tikkaMasala.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615737/TikkaMasala_fkzksb.jpg",
         address: "Khalsa Dhaba",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: " 1175 + order placed from here recently",
@@ -13,7 +13,7 @@ const Cardsdata = [
     {
         id: 2,
         dish: "Indian Chaats",
-        imgdata: "src/assets/img/IndianChaats.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615731/IndianChaats_quoz7s.jpg",
         address: "T-point Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: " 2525 + order placed from here recently",
@@ -24,7 +24,7 @@ const Cardsdata = [
     {
         id: 3,
         dish: "Samosa",
-        imgdata: "src/assets/img/samosa.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615736/Samosa_pxokyq.jpg",
         address: "Haldiram Square",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: " 650 + order placed from here recently",
@@ -35,7 +35,7 @@ const Cardsdata = [
     {
         id: 4,
         dish: "Rogan Josh",
-        imgdata: "src/assets/img/roganJosh.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615735/RoganJosh_bc7fak.jpg",
         address: "Chandni Restaurant",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: " 300 + order placed from here recently",
@@ -46,7 +46,7 @@ const Cardsdata = [
     {
         id: 5,
         dish: "Dhokla",
-        imgdata: "src/assets/img/Dhokla.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615728/Dhokla_izsysf.jpg",
         address: "Swad Palace",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "1050 + order placed from here recently",
@@ -68,7 +68,7 @@ const Cardsdata = [
     {
         id: 7,
         dish: "Dosa",
-        imgdata: "src/assets/img/Dosa.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615728/Dosa_iic0z6.jpg",
         address: "Civil Lines, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "500 + order placed from here recently",
@@ -79,7 +79,7 @@ const Cardsdata = [
     {
         id: 8,
         dish: "Idli",
-        imgdata: "src/assets/img/Idli.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615730/Idli_ixpujz.jpg",
         address: "Sadar, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "500 + order placed from here recently",
@@ -90,7 +90,7 @@ const Cardsdata = [
     {
         id: 9,
         dish: "Pakoras and Bhajjis",
-        imgdata: "src/assets/img/Pakora.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615734/Pakora_viza62.jpg",
         address: "Dharampeth, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "2525 + order placed from here recently",
@@ -102,7 +102,7 @@ const Cardsdata = [
     {
         id: 10,
         dish: "Makki di Roti and Sarson da Saag",
-        imgdata: "src/assets/img/MakkeDiRoti.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615733/MakkeDiRoti_ujkqmy.jpg",
         address: "Bajaj Nagar, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "2525 + order placed from here recently",
@@ -113,7 +113,7 @@ const Cardsdata = [
     {
         id: 11,
         dish: "Gulab Jamun",
-        imgdata: "src/assets/img/GulabJamun.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615729/GulabJamun_ktxq05.jpg",
         address: "Gandhibagh, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "2525 + order placed from here recently",
@@ -124,7 +124,7 @@ const Cardsdata = [
     {
         id: 12,
         dish: "Jalebi",
-        imgdata: "src/assets/img/Jalebi.jpg",
+        imgdata: "https://res.cloudinary.com/drah9v28t/image/upload/v1727615732/Jalebi_bmxmaw.jpg",
         address: "Pratap Nagar, Nagpur",
         delimg: "src/assets/img/SafeDelivery.png",
         somedata: "2525 + order placed from here recently",
