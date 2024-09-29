@@ -53,7 +53,7 @@ const searchItem=cartData.filter((ele)=>
                       <div className="extra"></div>
 
                       <div className="last_data d-flex justify-content-between align-items-center">
-                        <img src={element.arrimg} alt="" className='limg' />
+                      <i class="fa-solid fa-arrow-trend-up"></i>
                         <button style={{ width: "150px", background: "#ff3054db", borderRadius: "3px", border: "none" }} variant='outeline-light'
                           className='mt-2 mb-2'
                           onClick={() => send(element)}
