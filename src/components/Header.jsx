@@ -1,5 +1,5 @@
 import React from 'react'
-import './style.css'
+// import './style.css'
 import './header.css'
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
@@ -14,7 +14,7 @@ export default function Header({ setQuery }) {
 
 
   return (
-    <div>
+    <div className='headerContainer'>
       <Navbar className='header' >
         <Container>
           <NavLink to='/' className="text-decoration-none text-light px-2">
