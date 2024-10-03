@@ -24,7 +24,7 @@ export default function Home({query}) {
 // const [query,setQuery]=useState('')
 
 const searchItem=cartData.filter((ele)=>
-  ele.dish.toLowerCase().includes(query))
+  ele.dish.toLowerCase().startsWith(query))
 
   return (
     <> 
