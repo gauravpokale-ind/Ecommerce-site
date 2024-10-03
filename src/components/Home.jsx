@@ -30,7 +30,7 @@ const searchItem=cartData.filter((ele)=>
     <> 
     
       <section className='item_section mt-4 container'>
-        <h2 className='px-4' style={{ fontWeight: 500 }}>Available Food items</h2>
+        <h2 className='foodItem px-4' style={{ fontWeight: 500 }}>Available Food items</h2>
 
         <div className="row mt-2 d-flex justify-content-around align-items-center">
           {
