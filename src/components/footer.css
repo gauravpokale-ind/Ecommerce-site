@@ -4,7 +4,7 @@ html {
 }
 
 .footerContainer{
-    background-Image: linear-gradient(45deg, rgb(206, 202, 174), rgb(227, 224, 17),yellow);
+    background-Image: linear-gradient(45deg, rgb(165, 165, 162), rgb(216, 216, 206),rgb(175, 175, 170));
     width: 100%;
     height:100px;
     display: flex;
